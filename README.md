@@ -5,3 +5,13 @@ The principle is based on hydrodynamic cavitation: when a cavitator (rotor or di
 
 A small 4-stroke engine (5–10 kW), such as one from a motor cultivator or mini tractor, drives both the cavitator and a water pump.
 The system can operate on gasoline or be easily converted to gas fuel, which provides better economy and cleaner operation.
+
+Main Components
+
+Small 4-stroke engine, 5–10 kW (motor tiller, generator, etc.)
+
+Cavitator unit — rotor or disk type, mounted on the engine shaft
+
+Water pump for circulation through the cavitation chamber
+
+Option to use LPG (gas) as alternative fuel
