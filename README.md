@@ -15,3 +15,12 @@ Cavitator unit — rotor or disk type, mounted on the engine shaft
 Water pump for circulation through the cavitation chamber
 
 Option to use LPG (gas) as alternative fuel
+Current Stage
+
+Concept developed, basic design outlined. Next steps: testing cavitation unit performance and temperature rise in a prototype system.
+
+---
+🔗 Author:
+
+Gleb B. (Ukraine)
+Independent inventor, working on practical pulse and field-based energy systems.
